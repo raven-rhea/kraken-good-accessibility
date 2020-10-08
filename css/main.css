@@ -46,7 +46,7 @@ article div {
   padding: 1rem;
 }
 
-article header {
+header article {
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -86,7 +86,7 @@ nav a {
   border: 0;
   border-radius: 6px;
   color: #fff;
-  padding: 0.5rem;
+  padding: .5rem;
   width: 2.5rem;
   height: 2.5rem;
 }
@@ -106,7 +106,7 @@ nav a:focus {
   position: absolute;
   top: 0;
   width: 100%;
-  fill: currentColor;
+  fill: #fff;
 }
 
 nav i {
